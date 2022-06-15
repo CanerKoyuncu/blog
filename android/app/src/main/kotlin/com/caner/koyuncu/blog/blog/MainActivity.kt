@@ -1,0 +1,6 @@
+package com.caner.koyuncu.blog.blog
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
